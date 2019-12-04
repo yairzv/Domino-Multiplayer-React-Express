@@ -1,7 +1,8 @@
   Domino Multiplayers Website
 ==============================================
 In the game users can create a new game (2-3 users) or join an existing one to play Domino with other users.
-In addition, users can chat with other connected users.Built as a ReactJS, NodeJS and ExpressJS.
+In addition, users can chat with other connected users. 
+Built as a ReactJS, NodeJS and ExpressJS.
 
 Installation Instructions
 ===========================
